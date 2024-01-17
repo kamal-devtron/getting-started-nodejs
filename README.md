@@ -90,7 +90,7 @@ After the successful deployment, check out your service manifest for fetching th
 Use this URL on your browser and you can get the output as.
 
 ```
-{"cities":["Amsterdam","Berlin","New York","San Francisco","Tokyo"]}
+{"cities":["Amsterdam","Berlin","New York","San Francisco","Tokyo","France"]}
 ```
 
 Find out a detailed documentation about the configurations from here - https://docs.devtron.ai/devtron/user-guide/creating-application
